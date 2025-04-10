@@ -4,37 +4,48 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Key Algorithms and Strategies in High-Frequency Trading</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Optional CSS for styling -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0066cc;
+        }
+        h1 {
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
     <header>
         <h1>Key Algorithms and Strategies in High-Frequency Trading</h1>
     </header>
     <section>
-        <p>High-frequency trading (HFT) is an advanced algorithm and using the latest technology to make trades quickly. HFT strategies are used to take small price differences, market imbalances, and short-term trends to make a profit in a short time.</p>
-        <p>This part of this project is going to analyze Key Algorithms and Strategies in High-Frequency Trading, such as statistical arbitrage, market making, momentum ignition, and Other Strategies.</p>
-        
+        <p>High-frequency trading (HFT) is an advanced algorithm and using the latest technology to make trades quickly. HFT strategies are used to take small price differences, market imbalances, and short-term trends to make a profit in a short time [1].</p>
+        <p>This part of this project is going to analyze Key Algorithms and Strategies in High-Frequency Trading, such as statistical arbitrage, market making, momentum ignition, and other strategies.</p>
+
         <h2>A. Statistical Arbitrage</h2>
-        <p>Statistical Arbitrage is a statistical trading model that uses price differences between related financial instruments to make trade decision. The main objective is to find groups of assets that change the price together and make profit by changing their price relationship.</p>
-        <p>Cointegration Algorithms finds long-term relationships between groups of assets...</p>
+        <p>Statistical Arbitrage is a statistical trading model that uses price differences between related financial instruments to make trade decisions. The main objective is to find groups of assets that change the price together and make a profit by changing their price relationship. This strategy needs a lot of mathematical and computational techniques to process [2].</p>
         
+        <p>Cointegration algorithms find long-term relationships between groups of assets. For example, two stocks in the same industry may have a stable price. When the prices are not in their stable price range, traders can sell the more expensive assets and buy the cheaper assets. The purpose of Pairs Trading Algorithms is to find two assets that are usually moving together. Traders can trade them when their price relationship is different. For example, if the price relationship between Coca-Cola and Pepsi shares are not in the same direction, a trader might sell the stock has better performance and buy the stock has worse performance.</p>
+
+        <p>Advanced machine learning models, such as Neural Networks, are used to predict prices, allowing traders to make decisions based on the output of predictions [1]. These models can analyze a lot of historical data to find some patterns to predict the stock price. An example of statistical arbitrage is the price difference between an exchange-traded fund (ETF) and its underlying assets. ETFs are following the performance of a group of securities, but temporary differences can happen because of market inefficiencies. HFT algorithms can buy the cheaper part and sell the more expensive ETF, making risk-free profits as the prices come back together.</p>
+
         <h2>B. Market Making</h2>
-        <p>Market making is a strategy where traders offering buy (bid) and sell (ask) prices continuously for a financial instrument...</p>
+        <p>Market making is a strategy where traders offer buy (bid) and sell (ask) prices continuously for a financial instrument [3]. The goal is to make a profit by the bid-ask spread, the difference between the prices.</p>
+
+        <p>Firstly, Inventory Management Algorithms are essential for market makers to manage their inventory and avoid too much risk from price changes. Bid and ask prices are adjusted by algorithms based on the current inventory levels, ensuring the market maker stays neutral, long, or short. Adverse Selection Mitigation occurs when market makers have better information about an asset's true value. To reduce this risk, algorithms use predictive models to find and avoid trading with better information. For example, a market maker in the stock market might quote a bid price of 100 and an ask price of 100.10 for a particular stock. If a buyer purchases the stock at 100.10 and a seller sells it at 100, the market maker earns a profit of $0.10 per share. Over thousands of trades, these small profits can accumulate into substantial profit.</p>
 
         <h2>C. Momentum Ignition</h2>
-        <p>Momentum ignition is a HFT strategy that involves a series of trades to create or amplify price trends...</p>
+        <p>Momentum ignition is a HFT strategy that involves a series of trades to create or amplify price trends [4]. The goal is to make a profit by taking positions in the direction of the trend. This strategy often involves placing many orders to create the illusion of market activity, attracting other traders to follow.</p>
 
-        <h2>D. Other Strategies</h2>
-        <p>Latency arbitrage takes advantage of differences in how fast market participants receive and process information...</p>
-    </section>
-    <footer>
-        <p>References:</p>
-        <ol>
-            <li>Your reference details here...</li>
-            <li>Your reference details here...</li>
-            <li>Your reference details here...</li>
-            <li>Your reference details here...</li>
-        </ol>
-    </footer>
-</body>
-</html>
+        <h3>Order Book Analysis Algorithms</h3>
+        <p>Momentum ignition algorithms analyze the order book to find key levels of support. By placing orders at these levels, traders can influence how other market participants behave.</p>
