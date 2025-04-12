@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  References
+</head>
+<style>
+h1 {text-align: center}
+</style >
+<ol>
+    <li>
+        J. Kuepper, “How statistical arbitrage can lead to Big Profits,” 
+        <a href="https://www.investopedia.com/articles/trading/07/statistical-arbitrage.asp">Investopedia</a>, 
+        (accessed Mar. 24, 2025).
+    </li>
+    <li>
+        P. Bajpai, “Strategies and secrets of high frequency trading (HFT) firms,” 
+        <a href="https://www.investopedia.com/articles/active-trading/092114/strategies-and-secrets-high-frequency-trading-hft-firms.asp">Investopedia</a>, 
+        (accessed Mar. 24, 2025).
+    </li>
+    <li>
+        D. Buckley, “37+ high-frequency trading (HFT) strategies,” 
+        <a href="https://www.daytrading.com/hft-strategies">Day Trading</a>, 
+        (accessed Mar. 24, 2025).
+    </li>
+    <li>
+        D. Buckley, “Momentum ignition,” 
+        <a href="https://www.daytrading.com/momentum-ignition">Day Trading</a>, 
+        (accessed Mar. 24, 2025).
+    </li>
+    <li>
+        A. Ali et al., “Speed vs. efficiency: A framework for high-frequency trading algorithms on FPGA using Zynq SoC platform,” 
+        <em>Alexandria Engineering Journal</em>, vol. 96, pp. 1–14, Apr. 2024, 
+        <a href="https://doi.org/10.1016/j.aej.2024.03.064">doi:10.1016/j.aej.2024.03.064</a>.
+    </li>
+    <li>
+        Y. Zheng, “FPGA-based acceleration for high frequency trading,” Jan. 2023, 
+        <a href="https://doi.org/10.14711/thesis-991013159956803412">doi:10.14711/thesis-991013159956803412</a>.
+    </li>
+    <li>
+        A. Sanaullah, C. Yang, Y. Alexeev, K. Yoshii, and M. C. Herbordt, “Real-time data analysis for medical diagnosis using FPGA-accelerated neural networks,” 
+        <em>BMC Bioinformatics</em>, vol. 19, no. S18, Dec. 2018, 
+        <a href="https://doi.org/10.1186/s12859-018-2505-7">doi:10.1186/s12859-018-2505-7</a>.
+    </li>
+    <li>
+        M. J. Aitken, D. J. Cumming, and F. Zhan, “Trade Size, High Frequency Trading, and Co-Location Around the World,” 
+        <a href="https://ssrn.com/abstract=2417474">Ssrn.com</a>, Mar. 14, 2014. 
+        (accessed Mar. 21, 2025).
+    </li>
+    <li>
+        “Software Engineer,” 
+        <a href="https://www.levels.fyi/t/software-engineer?countryId=109&country=109">Levels.fyi</a>, 2025. 
+        (accessed Mar. 21, 2025).
+    </li>
+    <li>
+        E. B. Budish, P. Cramton, and J. J. Shim, “The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response,” 
+        <em>SSRN Electronic Journal</em>, 2013, 
+        <a href="https://doi.org/10.2139/ssrn.2388265">doi:10.2139/ssrn.2388265</a>.
+    </li>
+    <li>
+        Virgilio and M. Ernesto, “Revisiting noise—Fischer Black’s noise at the time of high-frequency trading,” 
+        <em>Risk Management</em>, vol. 26, no. 4, Sep. 2024, 
+        <a href="https://doi.org/10.1057/s41283-024-00151-7">doi:10.1057/s41283-024-00151-7</a>.
+    </li>
+    <li>
+        Bizjournals.com, 2025. 
+        <a href="https://www.bizjournals.com/chicago/news/2013/09/13/technical-glitch-temporary-halts.html">https://www.bizjournals.com
